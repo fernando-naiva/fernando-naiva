@@ -1,16 +1,19 @@
 
-### Olá! eu sou o Fernando Naiva 🖖
+### Olá, eu sou Fernando Naiva 🖖
 #
-<h4>Estudante de tecnologias web's ✍</h4>
-<h1>🌐 socials:</h1>
+<h3>Estudante de tecnologia web ✍</h3>
+<h2>🌐 socials:</h2>
 
 
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https//:www.google.com.br](https://www.facebook.com/fernandonaiva012))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https//:www.google.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https//:www.google.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//:www.google.com.br)
 #
-<h3>Affinity in:</h3>
+
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-naiva&show_icons=true&theme=merko)
+
+
+<h3>affinity in :</h3>
 
 <div style="display:inline_block"></br>
    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,4 +23,5 @@
    <img align="center" alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div></br></br>
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-naiva&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
